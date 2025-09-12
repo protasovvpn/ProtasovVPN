@@ -1,5 +1,5 @@
 ProtasovVPN for Windows and Android:
-https://github.com/protasov38/ProtasovVPN/releases
+https://github.com/protasovvpn/ProtasovVPN/releases
 
 https://t.me/ProtasovVPN
 
