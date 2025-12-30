@@ -7,6 +7,6 @@ http://protasovvpn.ru
 
 Техподдержка:
 
-**email**:support@protasovvpn.ru
+support@protasovvpn.ru
 
-**tg**: t.me/+yLRqc4DEaVc5MTYy
+t.me/+yLRqc4DEaVc5MTYy
