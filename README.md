@@ -9,4 +9,4 @@ http://protasovvpn.ru
 
 support@protasovvpn.ru
 
-t.me/+yLRqc4DEaVc5MTYy
+https://t.me/+yLRqc4DEaVc5MTYy
