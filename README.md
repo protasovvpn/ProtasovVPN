@@ -11,10 +11,3 @@ support@protasovvpn.ru
 
 https://t.me/+yLRqc4DEaVc5MTYy
 
-🌐 Официальные ресурсы
-Ресурс	Ссылка
-🌍 Официальный сайт	protasovvpn.ru
-📱 Telegram канал	@ProtasovVPN
-💬 Техподдержка	t.me/+yLRqc4DEaVc5MTYy
-📧 Email	support@protasovvpn.ru
-🐙 GitHub	protasovvpn/ProtasovVPN
