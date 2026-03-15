@@ -10,6 +10,7 @@ support@protasovvpn.ru
 https://t.me/+yLRqc4DEaVc5MTYy
 
 ⚠️ Важно: сейчас работает ТОЛЬКО версии 0.2.2 и 0.2.3
+
 Скачай (удалив старую):  
 📱 Android: .apk  
 🖥 Windows: .exe  
