@@ -18,3 +18,6 @@ https://t.me/+yLRqc4DEaVc5MTYy
 Ссылка: https://github.com/protasovvpn/ProtasovVPN/releases/tag/ProtasovVPN_0_2_3
 
 (Рекомендуем копировать ссылку в браузер для скачивания)
+
+
+Также наше приложение доступно в Google Play: наберите в поиске "ProtasovVPN"
