@@ -9,13 +9,13 @@ support@protasovvpn.ru
 
 https://t.me/+yLRqc4DEaVc5MTYy
 
-⚠️ Важно: сейчас работает ТОЛЬКО версия 0.2.4 и 0.2.5 (лучше используйте последнюю версию)
+⚠️ Важно: сейчас работает ТОЛЬКО версия 0.2.6
 
 Скачай (удалив старую):  
 📱 Android: .apk  
 🖥 Windows: .exe  
 
-Ссылка: https://github.com/protasovvpn/ProtasovVPN/releases/tag/ProtasovVPN_0_2_5
+Ссылка: https://github.com/protasovvpn/ProtasovVPN/releases/tag/ProtasovVPN_0_2_6
 
 (Рекомендуем копировать ссылку в браузер для скачивания)
 
