@@ -20,4 +20,4 @@ https://t.me/+yLRqc4DEaVc5MTYy
 
 Также наше приложение доступно в Google Play: наберите в поиске "ProtasovVPN"
 
-Поддержка Windows 10 - 11 и Android 7.0 - 16.0
+Поддержка Windows 10 - 11 и Android 5.0 - 16.0
