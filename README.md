@@ -13,7 +13,7 @@ https://t.me/+yLRqc4DEaVc5MTYy
 📱 Android: .apk  
 🖥 Windows: .exe  
 
-Ссылка: https://github.com/protasovvpn/ProtasovVPN/releases/tag/ProtasovVPN_0_3_3
+Ссылка: https://github.com/protasovvpn/ProtasovVPN/releases/tag/ProtasovVPN_0_3_4
 
 (Рекомендуем копировать ссылку в браузер для скачивания)
 
