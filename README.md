@@ -1,4 +1,4 @@
-Free and Premium ProtasovVPN for Windows and Android:
+Free and Premium ProtasovVPN for Android, IOS, MacOS и Windows:
 https://github.com/protasovvpn/ProtasovVPN/releases
 
 https://t.me/ProtasovVPN
@@ -18,6 +18,6 @@ https://t.me/+yLRqc4DEaVc5MTYy
 (Рекомендуем копировать ссылку в браузер для скачивания)
 
 
-Также наше приложение доступно в Google Play: наберите в поиске "Protasov VPN"
+Также наше приложение доступно в App Store и Google Play: наберите в поиске "Protasov VPN"
 
 Поддержка Windows 10 - 11 и Android 5.0 - 16.0
