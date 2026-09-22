@@ -20,4 +20,4 @@ https://t.me/+yLRqc4DEaVc5MTYy
 
 Также наше приложение доступно в App Store (кроме Russia и China) и Google Play: наберите в поиске "Protasov VPN"
 
-Поддержка Windows 10 - 11 и Android 5.0 - 16.0
+Поддержка Windows 10 - 11, Android 5.0 - 16.0, macOS 10.15 or later, iOS 15.0 or later 
