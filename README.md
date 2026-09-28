@@ -1,4 +1,4 @@
-Free and Premium ProtasovVPN for Android, IOS, MacOS и Windows:
+Free and Premium ProtasovVPN for Android, IOS, Linux, MacOS и Windows:
 https://github.com/protasovvpn/ProtasovVPN/releases
 
 https://t.me/ProtasovVPN
