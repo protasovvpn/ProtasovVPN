@@ -5,7 +5,7 @@ https://t.me/ProtasovVPN
 
 Техподдержка:
 
-support@protasovvpn.ru
+support@protasovvpn.com
 
 https://t.me/+yLRqc4DEaVc5MTYy
 
