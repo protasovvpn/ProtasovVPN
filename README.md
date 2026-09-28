@@ -12,6 +12,11 @@ https://t.me/+yLRqc4DEaVc5MTYy
 Скачай:  
 📱 Android: .apk  
 🖥 Windows: .exe  
+🐧 Linux:  
+  📦 Ubuntu / Debian / Mint: .deb  
+  🎩 Fedora / openSUSE: .rpm  
+  🚀 Любой дистрибутив без установки: .AppImage  
+  🗜 Портативная версия: .tar.gz
 
 Ссылка: https://github.com/protasovvpn/ProtasovVPN/releases/tag/ProtasovVPN_0_4_7
 
