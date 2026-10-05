@@ -14,7 +14,7 @@ https://t.me/+yLRqc4DEaVc5MTYy
 🖥 Windows: .exe  
 🐧 Linux: .deb (Ubuntu/Debian) · .rpm (Fedora/openSUSE) · .AppImage (любой дистрибутив) · .tar.gz (портативная)
 
-Ссылка: https://github.com/protasovvpn/ProtasovVPN/releases/tag/ProtasovVPN_0_5_2
+Ссылка: https://github.com/protasovvpn/ProtasovVPN/releases/tag/ProtasovVPN_0_5_4
 
 (Рекомендуем копировать ссылку в браузер для скачивания)
 
