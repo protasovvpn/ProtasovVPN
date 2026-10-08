@@ -15,6 +15,7 @@ https://t.me/+yLRqc4DEaVc5MTYy
 🐧 Linux: .deb (Ubuntu/Debian) · .rpm (Fedora/openSUSE) · .AppImage (любой дистрибутив) · .tar.gz (портативная)
 
 Ссылка Android и Windows: https://github.com/protasovvpn/ProtasovVPN/releases/tag/ProtasovVPN_0_5_4
+
 Ссылка Linux: https://github.com/protasovvpn/ProtasovVPN/releases/tag/ProtasovVPN_0_5_5_Linux
 
 (Рекомендуем копировать ссылку в браузер для скачивания)
