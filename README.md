@@ -14,7 +14,7 @@ https://t.me/+yLRqc4DEaVc5MTYy
 🖥 Windows: .exe  
 🐧 Linux: .deb (Ubuntu/Debian) · .rpm (Fedora/openSUSE) · .AppImage (любой дистрибутив) · .tar.gz (портативная)
 
-Ссылка Android и Windows: https://github.com/protasovvpn/ProtasovVPN/releases/tag/ProtasovVPN_0_6_3
+Ссылка Android и Windows: https://github.com/protasovvpn/ProtasovVPN/releases/tag/ProtasovVPN_0_6_4
 
 Ссылка Linux: https://github.com/protasovvpn/ProtasovVPN/releases/tag/ProtasovVPN_0_5_6_Linux
 
@@ -23,4 +23,4 @@ https://t.me/+yLRqc4DEaVc5MTYy
 
 Также наше приложение доступно в App Store (кроме Russia и China) и Google Play: наберите в поиске "Protasov VPN"
 
-Поддержка Windows 10 or later, Android 5.0 or later, macOS 10.15 or later, iOS 15.0 or later 
+Поддержка Windows 10 or later, Android 5.0 or later, macOS 10.15 or later, iOS 15.0 or later, Linux
