@@ -14,7 +14,7 @@ https://t.me/+yLRqc4DEaVc5MTYy
 🖥 Windows: .exe  
 🐧 Linux: .deb (Ubuntu/Debian) · .rpm (Fedora/openSUSE) · .AppImage (любой дистрибутив) · .tar.gz (портативная)
 
-Ссылка Android и Windows: https://github.com/protasovvpn/ProtasovVPN/releases/tag/ProtasovVPN_0_6_6
+Ссылка Android и Windows: https://github.com/protasovvpn/ProtasovVPN/releases/tag/ProtasovVPN_0_6_8
 
 Ссылка на IOS и MacOS: https://apps.apple.com/app/id6762463258
 
