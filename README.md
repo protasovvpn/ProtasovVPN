@@ -18,7 +18,7 @@ https://t.me/+yLRqc4DEaVc5MTYy
 
 Ссылка на IOS и MacOS: https://apps.apple.com/app/id6762463258
 
-Ссылка Linux: https://github.com/protasovvpn/ProtasovVPN/releases/tag/ProtasovVPN_0_6_5_Linux
+Ссылка Linux: https://github.com/protasovvpn/ProtasovVPN/releases/tag/ProtasovVPN_0_6_8_Linux
 
 (Рекомендуем копировать ссылку в браузер для скачивания)
 
